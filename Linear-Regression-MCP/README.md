@@ -15,7 +15,7 @@ Welcome to **Linear Regression MCP**! This project demonstrates an end-to-end ma
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/HeetVekariya/Linear-Regression-MCP
+git clone https://github.com/Tirth-Koradiya/Linear-Regression-MCP.git
 cd Linear-Regression-MCP
 ```
 
